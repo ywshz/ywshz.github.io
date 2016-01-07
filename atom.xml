@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://dycg.cnblogs.com/"/>
-  <updated>2016-01-07T03:08:43.318Z</updated>
+  <updated>2016-01-07T10:40:09.451Z</updated>
   <id>http://dycg.cnblogs.com/</id>
   
   <author>
@@ -13,6 +13,40 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA['nodejs初体验']]></title>
+    <link href="http://dycg.cnblogs.com/2016/01/07/nodejs%E5%88%9D%E4%BD%93%E9%AA%8C/"/>
+    <id>http://dycg.cnblogs.com/2016/01/07/nodejs初体验/</id>
+    <published>2016-01-07T10:03:29.000Z</published>
+    <updated>2016-01-07T10:40:09.451Z</updated>
+    <content type="html"><![CDATA[<p>前前后后花了一天,查了一些关于node的资料. 心态的变化是这样的: <strong> 哇!–&gt;嗯!–&gt;啊?–&gt;噢 </strong></p>
+<p>刚接触nodejs, 最关心的还是他能为我们做什么?</p>
+<blockquote>
+<p>NodeJS如是说，他创造NodeJS的目的是为了实现高性能Web服务器</p>
+</blockquote>
+<p>作者最看重的是事件机制和异步模型的优越性,而不是js. 这里我想起了<strong>nginx</strong>,目标也是成为高性能服务器. 有个网站说nginx在静态文件处理的性能上,秒杀nodejs.这一点,我没验证过,但我猜测是对的.</p>
+<p><a href="https://www.zhihu.com/question/19653241" target="_blank" rel="external">知乎</a>上有个文章,总结的NodeJS的适用和不适用的场景,可以参考</p>
+<p>入门的话, 我看了 <a href="https://nqdeng.github.io/7-days-nodejs/" target="_blank" rel="external">淘宝-7天学会Nodejs</a></p>
+<p>后来,我查资料, 说通过express这样的web框架,快速搭建一起web服务, 果然, 很快!真的很快, 但是没还摸透怎么和bootstrap之类的工具合起来用</p>
+<p>做web程序,按照传统,离不开和数据库打交道, express官网上的例子, 似乎是一个请求,打开一个连接, 不知道有没数据连接池的包可以用.</p>
+<p>下班时间到了, 中间省略很多字..</p>
+<p>总之, 今天接触下来,对Nodejs的总结如下</p>
+<blockquote>
+<p>非常适合做一些工具应用,或者低计算高并发请求的服务器,流式处理,实时监控之类的.</p>
+</blockquote>
+<p>我还发现一个库 <a href="https://github.com/mnutt/hummingbird" target="_blank" rel="external">Hummingbird</a>,看介绍说是可以为你的系统做一个用户实时跟踪的界面化统计, 太棒了, 明天再来研究.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>前前后后花了一天,查了一些关于node的资料. 心态的变化是这样的: <strong> 哇!–&gt;嗯!–&gt;啊?–&gt;噢 </strong></p>
+<p>刚接触nodejs, 最关心的还是他能为我们做什么?</p>
+<blockquote>
+<p>NodeJS]]>
+    </summary>
+    
+      <category term="node.js" scheme="http://dycg.cnblogs.com/tags/node-js/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[发布脚本那些事]]></title>
