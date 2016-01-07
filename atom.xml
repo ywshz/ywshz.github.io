@@ -3,9 +3,9 @@
   <title><![CDATA[杂货铺]]></title>
   
   <link href="/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2016-01-06T10:12:27.373Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://dycg.cnblogs.com/"/>
+  <updated>2016-01-07T02:30:46.990Z</updated>
+  <id>http://dycg.cnblogs.com/</id>
   
   <author>
     <name><![CDATA[东莞叔叔]]></name>
@@ -15,23 +15,84 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[Hello World]]></title>
-    <link href="http://yoursite.com/2016/01/06/hello-world/"/>
-    <id>http://yoursite.com/2016/01/06/hello-world/</id>
-    <published>2016-01-06T10:12:27.373Z</published>
-    <updated>2016-01-06T10:12:27.373Z</updated>
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick_Start"><a href="#Quick_Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create_a_new_post"><a href="#Create_a_new_post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run_server"><a href="#Run_server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate_static_files"><a href="#Generate_static_files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy_to_remote_sites"><a href="#Deploy_to_remote_sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+    <title><![CDATA[终于在Github上安了个窝]]></title>
+    <link href="http://dycg.cnblogs.com/2016/01/07/hello-world/"/>
+    <id>http://dycg.cnblogs.com/2016/01/07/hello-world/</id>
+    <published>2016-01-07T02:30:46.990Z</published>
+    <updated>2016-01-07T02:30:46.990Z</updated>
+    <content type="html"><![CDATA[<p>经过了万般的努力,终于在Github上安了个窝,技术发展和年龄的发展一样的快呀!</p>
+<p>Markdown语言的基本语法,在此标记一下</p>
+<h3 id="u5217_u8868"><a href="#u5217_u8868" class="headerlink" title="列表"></a>列表</h3><blockquote>
+<p>代码<br><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="header"># 标题1</span></span><br><span class="line"><span class="header">## 标题2</span></span><br><span class="line"><span class="header">### 标题3</span></span><br></pre></td></tr></table></figure></p>
+<p>结果  </p>
+<h1 id="u6807_u98981"><a href="#u6807_u98981" class="headerlink" title="标题1"></a>标题1</h1><h2 id="u6807_u98982"><a href="#u6807_u98982" class="headerlink" title="标题2"></a>标题2</h2><h3 id="u6807_u98983"><a href="#u6807_u98983" class="headerlink" title="标题3"></a>标题3</h3><p>代码<br><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="bullet">* </span>列表项1</span><br><span class="line"><span class="bullet">* </span>列表项2</span><br><span class="line"><span class="bullet">* </span>列表项3</span><br></pre></td></tr></table></figure></p>
+<p>结果</p>
+<ul>
+<li>列表项1</li>
+<li>列表项2</li>
+<li>列表项3</li>
+</ul>
+<p>代码<br><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="bullet">1. </span>列表项1</span><br><span class="line"><span class="bullet">2. </span>列表项2</span><br><span class="line"><span class="bullet">3. </span>列表项3</span><br></pre></td></tr></table></figure></p>
+<p>结果</p>
+<ol>
+<li>列表项1</li>
+<li>列表项2</li>
+<li>列表项3</li>
+</ol>
+</blockquote>
+<h3 id="u5F15_u7528"><a href="#u5F15_u7528" class="headerlink" title="引用"></a>引用</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#62; &#36825;&#26159;&#24341;&#29992;</span><br></pre></td></tr></table></figure>
+<blockquote>
+<p>这是引用  </p>
+</blockquote>
+<h3 id="u94FE_u63A5_u548C_u56FE_u7247"><a href="#u94FE_u63A5_u548C_u56FE_u7247" class="headerlink" title="链接和图片"></a>链接和图片</h3><blockquote>
+<p>代码<br><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">[<span class="link_label">百度</span>](<span class="link_url">www.baidu.com</span>)</span><br><span class="line">![<span class="link_label">百度</span>](<span class="link_url">https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo/bd_logo1_31bdc765.png</span>)</span><br></pre></td></tr></table></figure></p>
+<p>结果<br><a href="/www.baidu.com">百度</a><br><img src="https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo/bd_logo1_31bdc765.png" alt="百度"></p>
+</blockquote>
+<h3 id="u7C97_u4F53_u4E0E_u659C_u4F53"><a href="#u7C97_u4F53_u4E0E_u659C_u4F53" class="headerlink" title="粗体与斜体"></a>粗体与斜体</h3><blockquote>
+<p>代码<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">**&#31895;&#20307;**&#10;&#26012;&#20307;&#39064;*</span><br></pre></td></tr></table></figure></p>
+<p>结果<br><strong>粗体</strong><br>斜体题*</p>
+</blockquote>
+<h3 id="u8868_u683C"><a href="#u8868_u683C" class="headerlink" title="表格"></a>表格</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">| Tables        | Are           | Cool  |&#10;| ------------- |:-------------:| -----:|&#10;| col 3 is      | right-aligned | $1600 |&#10;| col 2 is      | centered      |   $12 |&#10;| zebra stripes | are neat      |    $1 |</span><br></pre></td></tr></table></figure>
+<blockquote>
+<p>结果</p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th>Tables</th>
+<th style="text-align:center">Are</th>
+<th style="text-align:right">Cool</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>col 3 is</td>
+<td style="text-align:center">right-aligned</td>
+<td style="text-align:right">$1600</td>
+</tr>
+<tr>
+<td>col 2 is</td>
+<td style="text-align:center">centered</td>
+<td style="text-align:right">$12</td>
+</tr>
+<tr>
+<td>zebra stripes</td>
+<td style="text-align:center">are neat</td>
+<td style="text-align:right">$1</td>
+</tr>
+</tbody>
+</table>
+<h3 id="u4EE3_u7801"><a href="#u4EE3_u7801" class="headerlink" title="代码"></a>代码</h3><p>用3个`把你的代码包裹起来</p>
+<h3 id="u5206_u5272_u7EBF"><a href="#u5206_u5272_u7EBF" class="headerlink" title="分割线"></a>分割线</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">***</span><br></pre></td></tr></table></figure>
+<p>如下:</p>
+<hr>
+<h3 id="u53CD_u659C_u6760_u8F6C_u4E49"><a href="#u53CD_u659C_u6760_u8F6C_u4E49" class="headerlink" title="反斜杠转义"></a>反斜杠转义</h3><p>*literal asterisks*</p>
+<p>\   反斜线<br>`   反引号<br>*   星号<br>_   底线<br>{}  花括号<br>[]  方括号<br>()  括弧<br>#   井字号<br>+   加号<br>-   减号<br>.   英文句点<br>!   惊叹号 </p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.]]>
+    <![CDATA[<p>经过了万般的努力,终于在Github上安了个窝,技术发展和年龄的发展一样的快呀!</p>
+<p>Markdown语言的基本语法,在此标记一下</p>
+<h3 id="u5217_u8868"><a href="#u5217_u8868" class="headerlink"]]>
     </summary>
     
   </entry>
